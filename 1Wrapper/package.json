@@ -1,0 +1,11 @@
+{
+  "name": "wrappermodule",
+  "version": "1.0.0",
+  "description": "NodeJS first Module Wrapper module contains export, require, module __filename and __dirname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Chaudhary",
+  "license": "ISC"
+}
